@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --grid-bg: #ffffff;
+  --grid-border: #e5e7eb;
+  --grid-focus: #2563eb;
+}
